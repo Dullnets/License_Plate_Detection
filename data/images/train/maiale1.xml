@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>maiale1.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\maiale1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maiale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>181</ymin>
+			<xmax>1025</xmax>
+			<ymax>1293</ymax>
+		</bndbox>
+	</object>
+</annotation>

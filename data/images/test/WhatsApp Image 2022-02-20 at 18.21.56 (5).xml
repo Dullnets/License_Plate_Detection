@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>WhatsApp Image 2022-02-20 at 18.21.56 (5).jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\WhatsApp Image 2022-02-20 at 18.21.56 (5).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pecora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>820</xmin>
+			<ymin>453</ymin>
+			<xmax>1491</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>837</xmin>
+			<ymin>1202</ymin>
+			<xmax>1384</xmax>
+			<ymax>1873</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tartaruga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>1243</ymin>
+			<xmax>680</xmax>
+			<ymax>1887</ymax>
+		</bndbox>
+	</object>
+</annotation>

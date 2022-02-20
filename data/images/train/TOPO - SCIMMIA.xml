@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>TOPO - SCIMMIA.PNG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\TOPO - SCIMMIA.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>859</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>topo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>60</ymin>
+			<xmax>419</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scimmia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>457</xmin>
+			<ymin>43</ymin>
+			<xmax>748</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

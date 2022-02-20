@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WhatsApp Image 2022-02-20 at 18.21.52.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\WhatsApp Image 2022-02-20 at 18.21.52.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gufo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>687</ymin>
+			<xmax>971</xmax>
+			<ymax>1319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1014</xmin>
+			<ymin>1336</ymin>
+			<xmax>1418</xmax>
+			<ymax>1939</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gatto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>1279</ymin>
+			<xmax>565</xmax>
+			<ymax>1775</ymax>
+		</bndbox>
+	</object>
+</annotation>

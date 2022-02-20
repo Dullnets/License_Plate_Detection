@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>papera1.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\papera1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>papera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>303</ymin>
+			<xmax>1116</xmax>
+			<ymax>1343</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WhatsApp Image 2022-02-20 at 18.21.56.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\WhatsApp Image 2022-02-20 at 18.21.56.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maiale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>862</ymin>
+			<xmax>1471</xmax>
+			<ymax>1560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coccodrillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>975</ymin>
+			<xmax>705</xmax>
+			<ymax>1632</ymax>
+		</bndbox>
+	</object>
+</annotation>

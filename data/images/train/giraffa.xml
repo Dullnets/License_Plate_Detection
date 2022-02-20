@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>giraffa.png</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\giraffa.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giraffa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>17</ymin>
+			<xmax>345</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

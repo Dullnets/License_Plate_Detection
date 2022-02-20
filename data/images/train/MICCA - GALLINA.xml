@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>MICCA - GALLINA.PNG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\MICCA - GALLINA.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>515</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mucca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>86</ymin>
+			<xmax>334</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gallina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>88</ymin>
+			<xmax>604</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>scimmia.png</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\scimmia.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scimmia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>6</ymin>
+			<xmax>343</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

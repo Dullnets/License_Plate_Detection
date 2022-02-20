@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WhatsApp Image 2022-02-20 at 18.21.58.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\WhatsApp Image 2022-02-20 at 18.21.58.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giraffa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>527</ymin>
+			<xmax>1123</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>PINGUINO - MAIALE.PNG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\PINGUINO - MAIALE.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>903</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maiale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>73</ymin>
+			<xmax>440</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pinguino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>79</ymin>
+			<xmax>777</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

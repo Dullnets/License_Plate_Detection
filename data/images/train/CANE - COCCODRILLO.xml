@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CANE - COCCODRILLO.PNG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\CANE - COCCODRILLO.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>806</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>50</ymin>
+			<xmax>388</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coccodrillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>48</ymin>
+			<xmax>706</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WhatsApp Image 2022-02-20 at 18.21.56 (3).jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\WhatsApp Image 2022-02-20 at 18.21.56 (3).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>topo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>234</ymin>
+			<xmax>1265</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>papera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>888</xmin>
+			<ymin>1170</ymin>
+			<xmax>1484</xmax>
+			<ymax>1853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>capra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>1139</ymin>
+			<xmax>591</xmax>
+			<ymax>1824</ymax>
+		</bndbox>
+	</object>
+</annotation>

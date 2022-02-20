@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CAPRA - GIRAFFA.PNG</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\CAPRA - GIRAFFA.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>809</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>65</ymin>
+			<xmax>393</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>giraffa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>66</ymin>
+			<xmax>713</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
